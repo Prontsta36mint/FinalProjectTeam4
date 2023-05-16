@@ -6,7 +6,6 @@ It follows best practices like the Page Object Model (POM), Singleton pattern, a
 
 # Test Scenarios
 Login to the OrangeHRM Demo site.
-Create two new employees and save their details to a JSON list.
 Go to the PIM dashboard and search for the first user by name. Assert that the user is found.
 Click on the first user from the search table and update their ID with a random user ID.
 Search for the first user by their new user ID from the PIM dashboard menu. Assert that the user is found.
